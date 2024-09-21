@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Yureshka02/Yureshka02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science undergraduate and an upcoming full-stack developer. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Languages and Tools:
+- **Languages:** JavaScript, TypeScript, Java, PHP
+- **Frameworks:** Laravel, Next.js, React
+- **Web Technologies:** HTML5, CSS3, Tailwind CSS
+- **Other Tools:** Node.js, Vite
+
+### 🤔 I’m looking for:
+- Collaborations on open-source projects and opportunities to enhance my skills.
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/lashane-yureshka-946422297/)
+
+
