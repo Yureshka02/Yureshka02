@@ -4,10 +4,10 @@ I'm a second-year Computer Science undergraduate and an upcoming full-stack deve
 
 ### 🌱 Languages and Tools:
 - **Languages:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-  - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFFFFF)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=FFFFFF)
-  - ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFFFFF)
+   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=FFFFFF)
+   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF)
 
 - **Frameworks:**
   - ![Laravel](https://img.shields.io/badge/-Laravel-EF2D2E?style=flat-square&logo=laravel&logoColor=FFFFFF)
