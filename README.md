@@ -31,3 +31,7 @@ I'm a second-year Computer Science undergraduate and an upcoming full-stack deve
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Yureshka02&theme=dark&hide_border=true)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yureshka02)
+
