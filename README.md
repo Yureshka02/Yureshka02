@@ -28,3 +28,6 @@ I'm a second-year Computer Science undergraduate and an upcoming full-stack deve
 
 ### 📫 How to reach me:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/lashane-yureshka-946422297/)
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=your-username&theme=dark&hide_border=true)
