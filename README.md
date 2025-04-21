@@ -8,6 +8,7 @@ I'm a second-year Computer Science undergraduate and an upcoming full-stack deve
     ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFFFFF)
     ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=FFFFFF)
     ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=FFFFFF)
+    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
     ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=FFFFFF)
 
 - **Frameworks:**
