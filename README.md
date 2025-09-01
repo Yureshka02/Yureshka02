@@ -25,8 +25,6 @@ I'm a second-year Computer Science undergraduate and an upcoming full-stack deve
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF)
     ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFFFFF)
 
-### 🤔 I’m looking for:
-- Collaborations on open-source projects and opportunities to enhance my skills.
 
 ### 📫 How to reach me:
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/lashane-yureshka-946422297/)
