@@ -11,7 +11,7 @@ I'm a second-year Computer Science undergraduate and an upcoming full-stack deve
     ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
     ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=FFFFFF)
 
-- **Frameworks:**
+- **Frameworks and Libraries:**
   - ![Laravel](https://img.shields.io/badge/-Laravel-EF2D2E?style=flat-square&logo=laravel&logoColor=FFFFFF)
     ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=FFFFFF)
     ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
@@ -24,6 +24,7 @@ I'm a second-year Computer Science undergraduate and an upcoming full-stack deve
 - **Other Tools:**
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFFFFF)
     ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=FFFFFF)
+    ![MongoDB](https://camo.githubusercontent.com/f23605baee51546590784469da5ced331248c4d115138ccc1c47e2fa2d356420/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333437413234383f7374796c653d666c61742d737175617265266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 
 
 ### 📫 How to reach me:
